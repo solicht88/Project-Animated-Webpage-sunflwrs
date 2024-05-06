@@ -1,0 +1,17 @@
+/* create space to the left of an element */
+.form-spacer {
+  margin-left: 25px;
+}
+
+/* change appearace for label, input, option and select elements */
+label, input, option, select {
+  padding: 5px;
+  font-family: Garamond;
+  font-size: 15px;
+}
+
+/* centers all elements in form to the middle of the page */
+form {
+  display: flex;
+  justify-content: center;
+}

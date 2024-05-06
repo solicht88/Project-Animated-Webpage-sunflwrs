@@ -1,0 +1,10 @@
+/* create space to the left of an element */
+.form-spacer {
+  margin-left: 25px;
+}
+
+form {
+  padding: 10px;
+  font-family: G;
+  font-size: 15px;
+}
